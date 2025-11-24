@@ -9,31 +9,36 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+
+
 Journal Articles
-======
-
-In Press
 ------
-C-C Yu`*`, Z-Q Mo`*`, **J-Y Lu**, J-J Hu, J-B Yang, S-F Li, L-B Jia. In Press. Revisiting the Molecular Circumscription of Sladeniaceae _sensu lato_ (Ericales): Insights from Phylogenetic Discordance. _Am. J. Bot._
 
-Published
-------
-1. K-S Chen`*`, **J-Y Lu**`*`, C-N Wang. 2019. Effective pollination of _Aeschynanthus acuminatus_ (Gesneriaceae) by generalist passerines, in sunbird-absent East Asia. _Sci. Rep._ 9, 17552. doi:10.1038/s41598-019-53035-2.
-2. K-T Hsin`*`, **J-Y Lu**`*`, M Möller, C-N Wang. 2019. Gene duplication and relaxation from selective constraints of _GCYC_ genes correlated with various floral symmetry patterns in Asiatic Gesneriaceae tribe Trichosporeae. _PloS one_ 14(1), e0210054-e0210054.
+###In Press
+
+1. C-C Yu\*, Z-Q Mo\*, **J-Y Lu**, J-J Hu, J-B Yang, S-F Li, L-B Jia. In Press. Revisiting the Molecular Circumscription of Sladeniaceae _sensu lato_ (Ericales): Insights from Phylogenetic Discordance. _Am. J. Bot._
+
+
+###Published
+
+1. K-S Chen\*, **J-Y Lu**\*, C-N Wang. 2019. Effective pollination of _Aeschynanthus acuminatus_ (Gesneriaceae) by generalist passerines, in sunbird-absent East Asia. _Sci. Rep._ 9, 17552. doi:10.1038/s41598-019-53035-2.
+2. K-T Hsin\*, **J-Y Lu**\*, M Möller, C-N Wang. 2019. Gene duplication and relaxation from selective constraints of _GCYC_ genes correlated with various floral symmetry patterns in Asiatic Gesneriaceae tribe Trichosporeae. _PloS one_ 14(1), e0210054-e0210054.
 3. H-J Hsu, C-W He, W-H Kuo, K-T Hsin, **J-Y Lu**, Z-J Pan, C-N Wang. 2018. Genetic analysis of floral symmetry transition in African violet suggest involvement of trans-acting factor for _CYCLOIDEA_ expression shifts. _Front. Plant Sci._ 9:1008. doi:10.3389/fpls.2018.01008.
 
-In Review
-------
-**J-Y Lu**, YW Xing, H T Luu, RH Ree. In Review. Testing macroevolutionary predictions of the Grant-Stebbins
+
+###In Review
+
+1. **J-Y Lu**, YW Xing, H T Luu, RH Ree. In Review. Testing macroevolutionary predictions of the Grant-Stebbins
 model in the origin of _Aeschynanthus acuminatus_.
 
-`*` Authors contribute equally to this research
+\* Authors contribute equally to this research
 
 
-
-{% include base_path %}
+<!-- 
+{% include base_path %} -->
 
 <!-- New style rendering if publication categories are defined -->
+<!--
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -54,5 +59,6 @@ model in the origin of _Aeschynanthus acuminatus_.
   {% endfor %}
 {% endif %}
 
+-->
 
 

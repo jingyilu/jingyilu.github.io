@@ -17,12 +17,14 @@ Education
 * M.S. in Evolutionary Biology, University of Chicago, 2022
 * B.S. in Life Science, National Taiwan University, 2018
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+-->
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -37,4 +39,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
