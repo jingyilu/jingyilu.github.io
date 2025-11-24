@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+[CV](https://github.com/jingyilu/jingyilu.github.io//files/CV_Lu_202508.pdf)
+
 Education
 ======
-* Ph.D in Evolutionary Biology, University of Chicago, 2025 (expected)
+* Ph.D in Evolutionary Biology, University of Chicago, 2025
 * M.S. in Evolutionary Biology, University of Chicago, 2022
 * B.S. in Life Science, National Taiwan University, 2018
-
 
 Publications
 ======
@@ -22,7 +23,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}

@@ -9,4 +9,4 @@ redirect_from:
 
 Hello, I’m Jing-Yi Lu, an evolutionary biologist at the University of Chicago and the Field Museum.
 
-I study the role of pollinator shifts in speciation, geographic distribution, and floral evolution of _Aeschynanthus_ (Gesneriaceae).
+I study the rinterplay among pollinator interactions, geography, floral traits, and speciation in Southeast Asian sunbird-pollinated _Aeschynanthus_ (Gesneriaceae). Integrating comparative approaches with ecological experiments, I focused on divergence and pollinator shifts in the morphologically and geographically distinctive _A. acuminatus_ and its closest relatives.
