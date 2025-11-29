@@ -8,7 +8,7 @@ author_profile: true
 
 ---
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <div style="flex: 1; margin-right: 20px;">
+  <div style="flex: 1;">
     <br> <!-- Empty lines added here -->
     <img src="/images/overlap_map.jpeg"
          alt="Overlap map of ranges"
