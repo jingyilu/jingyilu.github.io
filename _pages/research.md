@@ -8,8 +8,8 @@ author_profile: true
 
 ---
 
-<div style="display: flex; gap: 20px;" markdown="1">
-  <div style="flex: 1;" markdown="1">
+<div style="display: flex; justify-content: space-around;">
+  <div style="flex: 1; margin-right: 20px;">
     <img src="/images/overlap_map.jpeg" style="max-width: 100%; height: auto;" alt="R1">
   </div>
   <div style="flex: 2;" markdown="1">
