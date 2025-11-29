@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to research website of Jing-Yi Lu!"
+title: "Welcome to research website of Jing-Yi Lu"
 author_profile: true
 redirect_from: 
   - /about/
