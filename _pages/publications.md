@@ -17,6 +17,8 @@ Journal Articles
 ### In Press
 
 1. C-C Yu\*, Z-Q Mo\*, **J-Y Lu**, J-J Hu, J-B Yang, S-F Li, L-B Jia. In Press. Revisiting the Molecular Circumscription of Sladeniaceae _sensu lato_ (Ericales): Insights from Phylogenetic Discordance. _Am. J. Bot._
+2. **J-Y Lu**, YW Xing, H T Luu, RH Ree. Accepted. Testing macroevolutionary predictions of the Grant-Stebbins
+model in the origin of _Aeschynanthus acuminatus_. _New Phytol._
 
 
 ### Published
@@ -26,10 +28,9 @@ Journal Articles
 3. H-J Hsu, C-W He, W-H Kuo, K-T Hsin, **J-Y Lu**, Z-J Pan, C-N Wang. 2018. Genetic analysis of floral symmetry transition in African violet suggest involvement of trans-acting factor for _CYCLOIDEA_ expression shifts. _Front. Plant Sci._ 9:1008. doi:10.3389/fpls.2018.01008.
 
 
-### In Review
+<!-- ### In Review
 
-1. **J-Y Lu**, YW Xing, H T Luu, RH Ree. In Review. Testing macroevolutionary predictions of the Grant-Stebbins
-model in the origin of _Aeschynanthus acuminatus_.
+1. -->
 
 \* Authors contribute equally to this research
 
