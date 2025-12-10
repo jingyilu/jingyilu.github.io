@@ -32,6 +32,11 @@ model in the origin of _Aeschynanthus acuminatus_. _New Phytol._
 
 1. -->
 
+### In Preperation
+1. Q Li, KN Hu, J Wang, R Fuller, **J-Y Lu**, H Wang, JQ Liu, RH Ree, XJ Kou. In Prep. Genome-wide signatures and ecological strategies show the adaptation of an alpine _Rhododendron_ along elevation.
+
+2. **J-Y Lu**, S-J Ling, M-X Ren, RH Ree. In Prep. Floral traits limit pollinator assemblages and determine the visiting behavior of nectar specialist passerines.
+
 \* Authors contribute equally to this research
 
 
