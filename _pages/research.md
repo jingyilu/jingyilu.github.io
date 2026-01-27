@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+<br> <!-- Empty lines added here -->
 
 ---
 <div style="display: flex; gap: 20px; align-items: flex-start;">
@@ -24,5 +25,9 @@ author_profile: true
 
   </div>
 </div>
-
 ---
+
+<br> <!-- Empty lines added here -->
+
+<p>
+  More research to come. My previous research can be found [here](https://jeffwhile.wixsite.com/jing-yi-lu).
