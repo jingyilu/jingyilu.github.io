@@ -30,4 +30,4 @@ author_profile: true
 <br> <!-- Empty lines added here -->
 
 <p>
-  More research to come. My previous research can be found [here](https://jeffwhile.wixsite.com/jing-yi-lu).
+  More research to come. My previous research can be found <a href="https://jeffwhile.wixsite.com/jing-yi-lu">here</a>.
