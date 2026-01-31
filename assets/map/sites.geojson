@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": "TW-01",
+        "species": "Aeschynanthus acuminatus",
+        "pollinator": "generalist birds",
+        "corolla_mm": 41.2,
+        "notes": "Winter flowering; montane forest",
+        "paper_url": "",
+        "data_url": ""
+      },
+      "geometry": { "type": "Point", "coordinates": [121.0, 23.7] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": "VN-02",
+        "species": "Aeschynanthus acuminatus",
+        "pollinator": "sunbirds",
+        "corolla_mm": 45.8,
+        "notes": "Perching + occasional hovering observed"
+      },
+      "geometry": { "type": "Point", "coordinates": [108.3, 12.1] }
+    }
+  ]
+}

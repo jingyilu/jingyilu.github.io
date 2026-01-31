@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Study Sites Map</title>
+
+  <!-- Leaflet (CDN) -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <style>
+    body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+    #map { height: 100vh; }
+    .legend {
+      background: white;
+      padding: 10px 12px;
+      border-radius: 10px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+      line-height: 1.2;
+      font-size: 14px;
+    }
+    .legend .row { display: flex; align-items: center; gap: 8px; margin: 6px 0; }
+    .swatch { width: 12px; height: 12px; border-radius: 50%; display: inline-block; border: 1px solid rgba(0,0,0,0.25); }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <script>
+    // 1) Create map
+    const map = L.map("map", { scrollWheelZoom: true }).setView([23.5, 121.0], 6);
+
+    // 2) Basemap tiles (OpenStreetMap)
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 18,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    // 3) Color by pollinator guild/type
+    function colorForPollinator(p) {
+      // normalize a bit
+      const key = (p || "").toLowerCase();
+      if (key.includes("sunbird")) return "#d55e00";        // vermillion
+      if (key.includes("generalist birds")) return "#00513b";     // bluish green
+      if (key.includes("mixed")) return "#e69f00";          // orange
+      return "#666666";                                    // unknown/other
+    }
+
+    // 4) Point styling
+    function pointStyle(feature) {
+      const props = feature.properties || {};
+      return {
+        radius: 7,
+        fillColor: colorForPollinator(props.pollinator),
+        color: "white",
+        weight: 1.5,
+        opacity: 1,
+        fillOpacity: 0.9
+      };
+    }
+
+    // 5) Popup HTML
+    function popupHTML(props) {
+      const lines = [];
+      if (props.species) lines.push(`<b>${props.species}</b>`);
+      if (props.site_id) lines.push(`Site: ${props.site_id}`);
+      if (props.pollinator) lines.push(`Pollinator: ${props.pollinator}`);
+      if (props.corolla_mm !== undefined && props.corolla_mm !== null && props.corolla_mm !== "")
+        lines.push(`Corolla length: ${props.corolla_mm} mm`);
+      if (props.notes) lines.push(`Notes: ${props.notes}`);
+
+      // Optional link fields (put full URL in your GeoJSON)
+      if (props.paper_url) lines.push(`<a href="${props.paper_url}" target="_blank" rel="noopener">Paper / write-up</a>`);
+      if (props.data_url)  lines.push(`<a href="${props.data_url}" target="_blank" rel="noopener">Data</a>`);
+
+      return lines.join("<br>");
+    }
+
+    // 6) Load GeoJSON
+    fetch("./sites.geojson")
+      .then(r => r.json())
+      .then(geojson => {
+        const layer = L.geoJSON(geojson, {
+          pointToLayer: (feature, latlng) => L.circleMarker(latlng, pointStyle(feature)),
+          onEachFeature: (feature, lyr) => {
+            const props = feature.properties || {};
+            lyr.bindPopup(popupHTML(props));
+          }
+        }).addTo(map);
+
+        // Fit to your points
+        map.fitBounds(layer.getBounds(), { padding: [30, 30] });
+      })
+      .catch(err => {
+        console.error(err);
+        alert("Could not load sites.geojson. Check file path/name and that it's valid GeoJSON.");
+      });
+
+    // 7) Add a simple legend
+    const legend = L.control({ position: "bottomright" });
+    legend.onAdd = () => {
+      const div = L.DomUtil.create("div", "legend");
+      div.innerHTML = `
+        <div><b>Pollinator type</b></div>
+        <div class="row"><span class="swatch" style="background:#e41a1c"></span> Sunbird</div>
+        <div class="row"><span class="swatch" style="background:#377eb8"></span> Generalist bird</div>
+        <div class="row"><span class="swatch" style="background:#984ea3"></span> Mixed vertebrates</div>
+        <div class="row"><span class="swatch" style="background:#666666"></span> Unknown / other</div>
+      `;
+      return div;
+    };
+    legend.addTo(map);
+  </script>
+</body>
+</html>
