@@ -30,7 +30,7 @@ author_profile: true
 <br> <!-- Empty lines added here -->
 
 <iframe
-  src="https://github.com/jingyilu/jingyilu.github.io/tree/main/assets/map/"
+  src="https://jingyilu.github.io/assets/map/"
   width="100%"
   height="650"
   style="border:0; border-radius: 12px;"
