@@ -29,6 +29,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Field Work"
+    url: /fieldwork/
   # - title: "CV"
   #   url: /cv-json/
     
