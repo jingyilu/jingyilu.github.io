@@ -22,5 +22,25 @@
       },
       "geometry": { "type": "Point", "coordinates": [120.795056, 23.674528] }
     }
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": "DH",
+        "species": "Aeschynanthus acuminatus",
+        "pollinator": "generalist birds",
+        "paper_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
+      },
+      "geometry": { "type": "Point", "coordinates": [120.7191833, 23.49286667] }
+    }
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": "FS",
+        "species": "Aeschynanthus acuminatus",
+        "pollinator": "generalist birds",
+        "paper_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
+      },
+      "geometry": { "type": "Point", "coordinates": [121.4939167, 24.77441667] }
+    }
   ]
 }
