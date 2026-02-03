@@ -31,16 +31,41 @@
   <div id="map"></div>
 
   <script>
-    // 1) Create map
+    // 1) map
+
     const map = L.map("map", { scrollWheelZoom: true }).setView([23.5, 121.0], 6);
 
-    // 2) Basemap tiles (OpenStreetMap)
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      maxZoom: 18,
+    // --- Basemaps ---
+    const osm = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19,
       attribution: '&copy; OpenStreetMap contributors'
-    }).addTo(map);
+    });
 
-    // 3) Color by pollinator guild/type
+    // Topographic / terrain-style basemap
+    const opentopo = L.tileLayer("https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png", {
+      maxZoom: 17,
+      attribution: 'Map data: &copy; OpenStreetMap contributors, SRTM | Map style: &copy; OpenTopoMap'
+    });
+
+    // Carto light basemap
+    const cartoLight = L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+      maxZoom: 20,
+      attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
+    });
+
+    // Start with topo
+    opentopo.addTo(map);
+
+    // Layer control (top-right)
+    const baseMaps = {
+      "Topographic": opentopo,
+      "OpenStreetMap": osm,
+      "Carto Light": cartoLight
+    };
+  L.control.layers(baseMaps, null, { collapsed: false }).addTo(map);
+
+
+    // 2) Color by pollinator guild/type
     function colorForPollinator(p) {
       // normalize a bit
       const key = (p || "").toLowerCase();
@@ -50,7 +75,7 @@
       return "#666666";                                    // unknown/other
     }
 
-    // 4) Point styling
+    // 3) Point styling
     function pointStyle(feature) {
       const props = feature.properties || {};
       return {
@@ -63,7 +88,7 @@
       };
     }
 
-    // 5) Popup HTML
+    // 4) Popup HTML
     function popupHTML(props) {
       const lines = [];
       if (props.species) lines.push(`<b>${props.species}</b>`);
@@ -80,7 +105,7 @@
       return lines.join("<br>");
     }
 
-    // 6) Load GeoJSON
+    // 5) Load GeoJSON
     fetch("./sites.geojson")
       .then(r => r.json())
       .then(geojson => {
@@ -100,13 +125,13 @@
         alert("Could not load sites.geojson. Check file path/name and that it's valid GeoJSON.");
       });
 
-    // 7) Add a simple legend
+    // 6) Add a simple legend
     const legend = L.control({ position: "bottomright" });
     legend.onAdd = () => {
       const div = L.DomUtil.create("div", "legend");
       div.innerHTML = `
         <div><b>Pollinator type</b></div>
-        <div class="row"><span class="swatch" style="background:#d55e00></span> Sunbird</div>
+        <div class="row"><span class="swatch" style="background:#d55e00"></span> Sunbird</div>
         <div class="row"><span class="swatch" style="background:#00513b"></span> Generalist bird</div>
         <div class="row"><span class="swatch" style="background:#e69f00"></span> Mixed vertebrates</div>
         <div class="row"><span class="swatch" style="background:#666666"></span> Unknown / other</div>
