@@ -58,9 +58,9 @@
 
     // Layer control (top-right)
     const baseMaps = {
+      "Carto Light": cartoLight,
       "Topographic": opentopo,
-      "OpenStreetMap": osm,
-      "Carto Light": cartoLight
+      "OpenStreetMap": osm
     };
     L.control.layers(baseMaps, null, { collapsed: false }).addTo(map);
 
