@@ -30,16 +30,14 @@ model in the origin of _Aeschynanthus acuminatus_. _New Phytol._ doi: 10.1111/np
 5. H-J Hsu, C-W He, W-H Kuo, K-T Hsin, **J-Y Lu**, Z-J Pan, C-N Wang. 2018. Genetic analysis of floral symmetry transition in African violet suggest involvement of trans-acting factor for _CYCLOIDEA_ expression shifts. _Front. Plant Sci._ 9:1008. doi:10.3389/fpls.2018.01008. [Link](https://doi.org/10.3389/fpls.2018.01008)
 
 
-<!-- ### In Review
+### In Review
 
-1. -->
+1. **J-Y Lu**\*, S-J Ling\*, M-X Ren, RH Ree. In Review. Sunbird pollination of _Aeschynanthus moningerae_ and its
+implications for floral adaptations for hovering.
 
 ### In Preperation
 
-1. **J-Y Lu**\*, S-J Ling\*, M-X Ren, RH Ree. In Prep. Sunbird pollination of _Aeschynanthus moningerae_ and its
-implications for floral adaptations for hovering.
-
-2. Q Li, KN Hu, J Wang, R Fuller, **J-Y Lu**, H Wang, JQ Liu, RH Ree, XJ Kou. In Prep. Genome-wide signatures and ecological strategies show the adaptation of an alpine _Rhododendron_ along elevation.
+1. Q Li, KN Hu, J Wang, R Fuller, **J-Y Lu**, H Wang, JQ Liu, RH Ree, XJ Kou. In Prep. Genome-wide signatures and ecological strategies show the adaptation of an alpine _Rhododendron_ along elevation.
 
 \* Authors contribute equally to this research
 
