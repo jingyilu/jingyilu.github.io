@@ -37,7 +37,9 @@ implications for floral adaptations for hovering.
 
 ### In Preperation
 
-1. Q Li, KN Hu, J Wang, R Fuller, **J-Y Lu**, H Wang, JQ Liu, RH Ree, XJ Kou. In Prep. Genome-wide signatures and ecological strategies show the adaptation of an alpine _Rhododendron_ along elevation.
+1. Q Shen, N He, Y Kang, F Wang, **J-Y Lu**, Q Li. Submitted. Multidimensional floral disparity in _Rhododendron_: Evolutionary constraints and environmental filtering in a generalized pollination system.
+2. **J-Y Lu**, YW Xing, H T Luu, RH Ree. In Prep. Pollinator-driven divergence and speciation in three _Aeschynanthus_ species.
+3. Q Li, K Hu, J Wang, R Fuller, **J-Y Lu**, H Wang, J Liu, RH Ree, X Kou. In Prep. Genome-wide signatures and ecological strategies show the adaptation of an alpine _Rhododendron_ along elevation.
 
 \* Authors contribute equally to this research
 
