@@ -7,8 +7,12 @@
         "site_id": "QSB",
         "species": "Aeschynanthus acuminatus",
         "pollinator": "generalist birds",
-        "paper_url": "https://www.nature.com/articles/s41598-019-53035-2",
-        "paper_citation": "Chen et al. 2019",
+        "papers": [
+        {
+          "citation": "Chen et al. 2019",
+          "url": "https://www.nature.com/articles/s41598-019-53035-2"
+        }
+        ]
         "data_url": ""
       },
       "geometry": { "type": "Point", "coordinates": [121.448889, 24.839444] }
@@ -19,8 +23,16 @@
         "site_id": "XT",
         "species": "Aeschynanthus acuminatus",
         "pollinator": "generalist birds",
-        "paper_url": "https://www.nature.com/articles/s41598-019-53035-2",
-        "paper_citation": "Chen et al. 2019"
+        "papers": [
+        {
+          "citation": "Chen et al. 2019",
+          "url": "https://www.nature.com/articles/s41598-019-53035-2"
+        },
+        {
+          "citation": "Lu et al. 2025",
+          "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
+        }
+        ]
       },
       "geometry": { "type": "Point", "coordinates": [120.795056, 23.674528] }
     },
@@ -41,8 +53,12 @@
         "site_id": "FS",
         "species": "Aeschynanthus acuminatus",
         "pollinator": "generalist birds",
-        "paper_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871",
-        "paper_citation": "Lu et al. 2026"
+        "papers": [
+        {
+          "citation": "Lu et al. 2026",
+          "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
+        }
+        ]
       },
       "geometry": { "type": "Point", "coordinates": [121.4939167, 24.77441667] }
     },
@@ -52,8 +68,12 @@
         "site_id": "GX",
         "species": "Aeschynanthus acuminatus",
         "pollinator": "generalist birds",
-        "paper_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871",
-        "paper_citation": "Lu et al. 2026"
+        "papers": [
+        {
+          "citation": "Lu et al. 2026",
+          "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
+        }
+        ]
       },
       "geometry": { "type": "Point", "coordinates": [117.2033, 24.929444] }
     },
@@ -63,8 +83,12 @@
         "site_id": "KK",
         "species": "Aeschynanthus acuminatus",
         "pollinator": "mixed",
-        "paper_url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871",
-        "paper_citation": "Lu et al. 2026"
+        "papers": [
+        {
+          "citation": "Lu et al. 2026",
+          "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
+        }
+        ]
       },
       "geometry": { "type": "Point", "coordinates": [108.659762, 12.127498] }
     }
