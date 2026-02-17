@@ -87,8 +87,30 @@
         fillOpacity: 0.9
       };
     }
+    // 4) Photos
+    function photoHTML(photos) {
+      if (!Array.isArray(photos) || photos.length === 0) return "";
 
-    // 4) Popup HTML
+      // show up to 2 photos
+      const show = photos.slice(0, 2);
+
+      const imgs = show.map(p => {
+        const cap = p.caption ? `<div style="font-size:12px;opacity:0.8;margin-top:2px;">${p.caption}</div>` : "";
+        return `
+          <div style="margin-top:8px;">
+            <a href="${p.url}" target="_blank" rel="noopener">
+              <img src="${p.url}" alt="" style="width:100%;max-width:260px;border-radius:10px;display:block;">
+            </a>
+            ${cap}
+          </div>
+        `;
+      }).join("");
+
+      return `<div>${imgs}</div>`;
+    }
+
+
+    // 5) Popup HTML
     function popupHTML(props) {
       const lines = [];
       if (props.species) lines.push(`<b>${props.species}</b>`);
@@ -98,7 +120,7 @@
         lines.push(`Corolla length: ${props.corolla_mm} mm`);
       if (props.notes) lines.push(`Notes: ${props.notes}`);
 
-      // Optional link fields (put full URL in your GeoJSON)
+      // link fields (put full URL in GeoJSON)
       if (props.papers && props.papers.length > 0) {
         lines.push("<hr style='margin:6px 0;'>");
         lines.push("<b>Research:</b>");
@@ -112,11 +134,14 @@
         });
       }
       if (props.data_url)  lines.push(`<a href="${props.data_url}" target="_blank" rel="noopener">Data</a>`);
+      if (props.photos && props.photos.length > 0) {
+        lines.push(photoHTML(props.photos));
+      }
 
       return lines.join("<br>");
     }
 
-    // 5) Load GeoJSON
+    // 6) Load GeoJSON
     fetch("./sites.geojson")
       .then(r => r.json())
       .then(geojson => {
@@ -136,7 +161,7 @@
         alert("Could not load sites.geojson. Check file path/name and that it's valid GeoJSON.");
       });
 
-    // 6) Add a simple legend
+    // 7) Add a simple legend
     const legend = L.control({ position: "bottomright" });
     legend.onAdd = () => {
       const div = L.DomUtil.create("div", "legend");

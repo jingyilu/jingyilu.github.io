@@ -152,6 +152,12 @@
           "citation": "Lu et al. 2026",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
+        ],
+        "photos": [
+        {
+          "url": "photos/KK_rodent.jpg",
+          "caption": "Rodent visiting flowers"
+        }
         ]
       },
       "geometry": { "type": "Point", "coordinates": [108.659762, 12.127498] }
