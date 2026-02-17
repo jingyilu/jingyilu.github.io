@@ -99,7 +99,18 @@
       if (props.notes) lines.push(`Notes: ${props.notes}`);
 
       // Optional link fields (put full URL in your GeoJSON)
-      if (props.paper_url) lines.push(`<a href="${props.paper_url}" target="_blank" rel="noopener">Paper / write-up</a>`);
+      if (props.papers && props.papers.length > 0) {
+        lines.push("<hr style='margin:6px 0;'>");
+        lines.push("<b>Research:</b>");
+
+        props.papers.forEach(p => {
+          lines.push(
+            `&bull; <a href="${p.url}" target="_blank" rel="noopener">
+            ${p.citation}
+          </a>`
+          );
+        });
+      }
       if (props.data_url)  lines.push(`<a href="${props.data_url}" target="_blank" rel="noopener">Data</a>`);
 
       return lines.join("<br>");
