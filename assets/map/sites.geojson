@@ -20,7 +20,7 @@
     {
       "type": "Feature",
       "properties": {
-        "site_id": "XT",
+        "site_id": "Xitou",
         "species": "Aeschynanthus acuminatus",
         "pollinator": "generalist birds",
         "papers": [
@@ -39,7 +39,7 @@
     {
       "type": "Feature",
       "properties": {
-        "site_id": "DH",
+        "site_id": "Dinghu",
         "species": "Aeschynanthus acuminatus",
         "pollinator": "generalist birds",
         "papers": [
@@ -54,7 +54,7 @@
     {
       "type": "Feature",
       "properties": {
-        "site_id": "FS",
+        "site_id": "Fushan",
         "species": "Aeschynanthus acuminatus",
         "pollinator": "generalist birds",
         "papers": [
@@ -69,7 +69,7 @@
     {
       "type": "Feature",
       "properties": {
-        "site_id": "GX",
+        "site_id": "Guxi",
         "species": "Aeschynanthus acuminatus",
         "pollinator": "generalist birds",
         "papers": [
@@ -84,7 +84,37 @@
     {
       "type": "Feature",
       "properties": {
-        "site_id": "KK",
+        "site_id": "Ladeng",
+        "species": "Aeschynanthus acuminatus",
+        "pollinator": "sunbird",
+        "papers": [
+        {
+          "citation": "Lu et al. 2026",
+          "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
+        }
+        ]
+      },
+      "geometry": { "type": "Point", "coordinates": [103.4902167, 22.7781] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": "Shibanzhai",
+        "species": "Aeschynanthus acuminatus",
+        "pollinator": "sunbird",
+        "papers": [
+        {
+          "citation": "Lu et al. 2026",
+          "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
+        }
+        ]
+      },
+      "geometry": { "type": "Point", "coordinates": [103.7211667, 22.94675] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": "K'Long K'Lanh",
         "species": "Aeschynanthus acuminatus",
         "pollinator": "mixed",
         "papers": [
