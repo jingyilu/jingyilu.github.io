@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "site_id": "QSB",
+        "site_id": "Qingshui Bridge",
         "species": "Aeschynanthus acuminatus",
         "pollinator": "generalist birds",
         "papers": [
@@ -35,6 +35,21 @@
         ]
       },
       "geometry": { "type": "Point", "coordinates": [120.795056, 23.674528] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": "Linmei",
+        "species": "Aeschynanthus acuminatus",
+        "pollinator": "generalist birds",
+        "papers": [
+        {
+          "citation": "Lu et al. 2026",
+          "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
+        }
+        ]
+      },
+      "geometry": { "type": "Point", "coordinates": [121.7283167, 23.24.82715] }
     },
     {
       "type": "Feature",
@@ -80,6 +95,21 @@
         ]
       },
       "geometry": { "type": "Point", "coordinates": [117.2033, 24.929444] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": "Yixiantian",
+        "species": "Aeschynanthus acuminatus",
+        "pollinator": "generalist birds",
+        "papers": [
+        {
+          "citation": "Lu et al. 2026",
+          "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
+        }
+        ]
+      },
+      "geometry": { "type": "Point", "coordinates": [116.1335, 24.6992] }
     },
     {
       "type": "Feature",
