@@ -7,7 +7,6 @@ author_profile: true
 
 I am generally interested in plant evolution through space and time. Plant-pollinator interactions are a compelling subject for investigating the links between microevolution and macroevolution across the temporal scale. Uneven distribution of animal pollinators forms geographic mosaics at the landscape level. How do plants respond and evolve to a geographic mosaic in pollinator availability? I investigated key questions of pollinator-driven speciation in the SE Asian genus <em>Aeschynanthus</em> (Gesneriaceae).
 
-<br> <!-- Empty lines added here -->
 
 ---
 <div style="display: flex; gap: 20px; align-items: flex-start;">
