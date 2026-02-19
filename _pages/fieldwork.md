@@ -25,8 +25,6 @@ author_profile: true
 
 ### Current knowledge of pollinators of _Aeschynanthus_
 
-<br> <!-- Empty lines added here -->
-
 <iframe
   src="https://jingyilu.github.io/assets/map/"
   width="100%"
