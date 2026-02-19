@@ -14,7 +14,7 @@ I am generally interested in plant evolution through space and time. My research
     <br> <!-- Empty lines added here -->
     <img src="/images/Fig2_Hypotheses.jpg"
          alt="Phyglogenetic hypotheses"
-         style="max-width: 100%; height: auto;">
+         style="width:400px; height: auto;">
   </div>
 
   <div style="flex: 2;">
