@@ -9,8 +9,21 @@ redirect_from:
 
 <br> <!-- Empty lines added here -->
 
-Hello, I’m Jing-Yi Lu, a botanist and evolutionary biologist at the Field Museum, Chicago, IL, US. I am currently working with Dr. Rick Ree.
+Hello, I’m Jing-Yi Lu, a botanist and evolutionary biologist. I am currently working with Dr. Rick Ree at the Field Museum, Chicago, IL, US.
 
 Originally from Taiwan, I recently completed my PhD in Evolutionary Biology at the University of Chicago. Before moving to the United States for graduate study, I earned my bachelor's degree in Life Science from National Taiwan University.
 
-I study the interplay among pollinator interactions, geography, floral traits, and speciation in the Southeast Asian sunbird-pollinated genus _Aeschynanthus_ (Gesneriaceae). Integrating comparative approaches with ecological experiments, I focused on divergence and pollinator shifts in the morphologically and geographically distinctive _A. acuminatus_ and its closest relatives.
+My current research focuses on the interplay among pollinator interactions, geography, floral traits, and genetic divergence in the Southeast Asian sunbird-pollinated genus _Aeschynanthus_ (Gesneriaceae).
+
+<br> <!-- Empty lines added here -->
+
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 20px; text-align: center;">
+    <img src="/images/Lu_01.jpg" alt="field expedition" width="400px">
+    <p>Field expedition to SW China</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="/images/Lu_02.jpg" alt="camera trap" width="400px">
+    <p>Pollination studies in S Vietnam</p>
+  </div>
+</div>
