@@ -22,7 +22,7 @@ Journal Articles
 ### Published
 
 1. **J-Y Lu**, YW Xing, H T Luu, RH Ree. 2026. Testing macroevolutionary predictions of the Grant-Stebbins
-model in the origin of _Aeschynanthus acuminatus_. _New Phytol._ doi: 10.1111/nph.70871. [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871)
+model in the origin of _Aeschynanthus acuminatus_. _New Phytol._ 249(6):3137-3148. doi: 10.1111/nph.70871. [Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871)
   - Media Coverage: [Field Museum](https://www.fieldmuseum.org/about/press/this-flower-evolved-a-new-shape-so-that-different-birds-could-pollinate-it); [EurekAlert](https://www.eurekalert.org/news-releases/1113627); [CNN Science](https://www.cnn.com/2026/02/06/science/lipstick-vine-evolution-taiwan-mystery); [Popular Science](https://www.popsci.com/science/lipstick-vine-evolution/); [infobae](https://www.infobae.com/america/ciencia-america/2026/01/27/descubren-como-una-flor-asiatica-evoluciono-de-forma-inesperada-para-convivir-con-distintos-tipos-de-polinizadores/)
 2. C-C Yu\*, Z-Q Mo\*, **J-Y Lu**, J-J Hu, J-B Yang, S-F Li, L-B Jia. 2025. Revisiting the Molecular Circumscription of Sladeniaceae _sensu lato_ (Ericales): Insights from Phylogenetic Discordance. _Am. J. Bot._ 112:e70141. doi: 10.1002/ajb2.70141. [Link](https://doi.org/10.1002/ajb2.70141)
 3. K-S Chen\*, **J-Y Lu**\*, C-N Wang. 2019. Effective pollination of _Aeschynanthus acuminatus_ (Gesneriaceae) by generalist passerines, in sunbird-absent East Asia. _Sci. Rep._ 9:17552. doi:10.1038/s41598-019-53035-2. [Link](https://doi.org/10.1038/s41598-019-53035-2)
