@@ -19,11 +19,7 @@ My current research focuses on the interplay among pollinator interactions, geog
 
 <div style="display: flex; justify-content: center;">
   <div style="margin-right: 20px; text-align: center;">
-    <img src="/images/Lu_01.jpg" alt="field expedition" width="400px">
-    <p>Field expedition to SW China</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="/images/Lu_02.jpg" alt="camera trap" width="400px">
-    <p>Pollination studies in S Vietnam</p>
+    <img src="/images/Lu_01.jpg" alt="field expedition" width="750px">
+    <p>Field expedition to southwestern China, in search of <em>Aeschynanthus acuminatus</em> </p>
   </div>
 </div>
