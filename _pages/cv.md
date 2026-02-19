@@ -12,7 +12,7 @@ redirect_from:
 [Full CV](https://github.com/jingyilu/jingyilu.github.io/tree/main/files/JLu_CV.pdf)
 
 Education
-======
+------
 * Ph.D in Evolutionary Biology, University of Chicago, 2025
 * M.S. in Evolutionary Biology, University of Chicago, 2022
 * B.S. in Life Science, National Taiwan University, 2018
