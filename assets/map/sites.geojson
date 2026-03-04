@@ -246,6 +246,21 @@
         ]
       },
       "geometry": { "type": "Point", "coordinates": [118.9641, 25.7623] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": "An Toan",
+        "species": "Aeschynanthus acuminatus",
+        "pollinator": "unknown",
+        "papers": [
+        {
+          "citation": "Lu et al. 2026",
+          "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
+        }
+        ]
+      },
+      "geometry": { "type": "Point", "coordinates": [108.744164, 14.526669] }
     }
   ]
 }
