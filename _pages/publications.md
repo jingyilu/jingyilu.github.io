@@ -34,7 +34,7 @@ model in the origin of _Aeschynanthus acuminatus_. _New Phytol._ 249(6):3137-314
 
 1. **J-Y Lu**\*, S-J Ling\*, M-X Ren, RH Ree. In Review. Sunbird pollination of _Aeschynanthus moningerae_ and its
 implications for floral adaptations for hovering.
-2. Q Shen, N He, Y Kang, F Wang, **J-Y Lu**, Q Li. Submitted. Multidimensional floral disparity in _Rhododendron_: Evolutionary constraints and environmental filtering in a generalized pollination system.
+2. Q Shen, N He, Y Kang, F Wang, **J-Y Lu**, Q Li. In Review. Multidimensional floral disparity in _Rhododendron_: Evolutionary constraints and environmental filtering in a generalized pollination system.
 
 ### In Preperation
 
