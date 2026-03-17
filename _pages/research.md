@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-I am generally interested in plant evolution through space and time. My research focuses on the role of pollinators in plant speciation, floral evolution, and their geographic distribution. Plant-pollinator interaction is a compelling subject for investigating the links between microevolution and macroevolution across the temporal scale. Uneven distribution of animal pollinators forms geographic mosaics at the landscape level. How do plants respond and evolve to a geographic mosaic in pollinator availability? I investigate key questions of pollinator-driven speciation in the SE Asian genus <em>Aeschynanthus</em> (Gesneriaceae).
+My research focuses on how plants evolve and diversify across spatial and temporal scales. Using an integrative approach that combines field ecology, phylogeography, and genomic analyses, I examine models of plant speciation and the role of ecological interactions in shaping evolutionary divergence.
+Plant-pollinator interaction is a compelling subject for investigating the links between microevolution and macroevolution. Uneven distribution of animal pollinators forms geographic mosaics at the landscape level. How do plants respond and evolve to a geographic mosaic in pollinator availability? I investigate key questions of pollinator-driven speciation in the SE Asian genus <em>Aeschynanthus</em> (Gesneriaceae).
 
 
 ---
