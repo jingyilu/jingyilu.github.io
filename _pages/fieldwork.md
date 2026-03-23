@@ -5,28 +5,33 @@ permalink: /fieldwork/
 author_profile: true
 ---
 
+<br> <!-- Empty lines added here -->
+
 Fieldwork forms a central component of my research on phylogeography and plant–pollinator interactions. I am deeply grateful for the support and hospitality of local communities who assisted with field access, logistics, and knowledge of local environments. My field sites are located on lands traditionally stewarded by indigenous peoples in Taiwan and by ethnic minority communities in southern China and the Central Highlands of Vietnam.
 
+---
 
 Regions of field research
 ------
 
 ### Taiwan
-New Taipei City, Nantou, Yilan, Chiayi counties; Central Mountain Range and more...
-2016-2021; 2023-2025
+2016-2021; 2023-2025: New Taipei City, Nantou, Yilan, Chiayi counties; Central Mountain Range and more...
+
 
 ### Southern China
-Yunnan, Sichuan, Guangxi, Guangdong, Fujian
-2019-2021; 2023
+2019-2021; 2023: Yunnan, Sichuan, Guangxi, Guangdong, Fujian
+
 
 ### Vietnam
-Central Highlands: Lam Dong Province
-2019; 2023
+2019; 2023: Central Highlands: Lam Dong Province
+
 
 ---
 
 Field photos
 ------
+
+<br> <!-- Empty lines added here -->
 
 <div style="display: flex; justify-content: center;">
   <div style="margin-right: 20px; text-align: center;">
@@ -46,7 +51,7 @@ Field photos
 
 Current knowledge of pollinators of _Aeschynanthus_
 ------
-
+<br> <!-- Empty lines added here -->
 
 <iframe
   src="https://jingyilu.github.io/assets/map/"
