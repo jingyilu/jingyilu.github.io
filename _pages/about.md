@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<br> <!-- Empty lines added here -->
-
 Hello, I’m Jing-Yi Lu, a botanist and evolutionary biologist. I am currently working with Dr. Rick Ree at the Field Museum, Chicago, IL, US.
 
 Originally from Taiwan, I recently completed my PhD in Evolutionary Biology at the University of Chicago. Before moving to the United States for graduate study, I earned my bachelor's degree in Life Science from National Taiwan University.
