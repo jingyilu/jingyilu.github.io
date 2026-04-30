@@ -5,7 +5,6 @@ permalink: /fieldwork/
 author_profile: true
 ---
 
-<br> <!-- Empty lines added here -->
 
 Fieldwork forms a central component of my research on phylogeography and plant–pollinator interactions. I am deeply grateful for the support and hospitality of local communities who assisted with field access, logistics, and knowledge of local environments. My field sites are located on lands traditionally stewarded by indigenous peoples in Taiwan and by ethnic minority communities in southern China and the Central Highlands of Vietnam.
 
