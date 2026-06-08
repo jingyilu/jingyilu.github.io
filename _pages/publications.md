@@ -35,11 +35,13 @@ model in the origin of _Aeschynanthus acuminatus_. _New Phytol._ 249(6):3137-314
 1. **J-Y Lu**\*, S-J Ling\*, M-X Ren, RH Ree. In Review. Sunbird pollination of _Aeschynanthus moningerae_ and its
 implications for floral adaptations for hovering.
 2. Q Shen, N He, Y Kang, F Wang, **J-Y Lu**, Q Li. In Review. Multidimensional floral disparity in _Rhododendron_: Evolutionary constraints and environmental filtering in a generalized pollination system.
+3. Q Li, K Hu, J Wang, R Fuller, **J-Y Lu**, H Wang, J Liu, RH Ree, X Kou. In Review. Genome-wide signatures and ecological strategies show the adaptation of an alpine _Rhododendron_ along elevation.
 
 ### In Preperation
 
 1. **J-Y Lu**, YW Xing, H T Luu, RH Ree. In Prep. Pollinator-driven divergence and speciation in three _Aeschynanthus_ species.
-2. Q Li, K Hu, J Wang, R Fuller, **J-Y Lu**, H Wang, J Liu, RH Ree, X Kou. In Prep. Genome-wide signatures and ecological strategies show the adaptation of an alpine _Rhododendron_ along elevation.
+2. C-C Yu, Y-L Huang, T-T He, T Ito, K-F Chung, **J-Y Lu**. In Prep. In situ diversification or multiple origins of _Berberis_ in Taiwan.
+
 
 \* Authors contribute equally to this research
 
