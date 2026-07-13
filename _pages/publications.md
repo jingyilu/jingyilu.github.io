@@ -16,7 +16,7 @@ Journal Articles
 
 ### In Press
 
-1. Q Shen, N He, Y Kang, F Wang, **J-Y Lu**, Q Li. Accepted. Multidimensional floral disparity in _Rhododendron_: Evolutionary constraints and environmental filtering in a generalized pollination system. _Plant Divers._
+1. Q Shen, N He, Y Kang, F Wang, **J-Y Lu**, Q Li. 2026. Multidimensional floral disparity in _Rhododendron_: Evolutionary constraints and environmental filtering in a generalized pollination system. _Plant Divers._ doi: 10.1016/j.pld.2026.07.003. [Link](https://doi.org/10.1016/j.pld.2026.07.003)
 
 
 ### Published
