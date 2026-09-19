@@ -17,7 +17,7 @@ Journal Articles
 ### In Press
 
 1. Q Shen, N He, Y Kang, F Wang, **J-Y Lu**, Q Li. 2026. Multidimensional floral disparity in _Rhododendron_: Evolutionary constraints and environmental filtering in a generalized pollination system. _Plant Divers._ doi: 10.1016/j.pld.2026.07.003. [Link](https://doi.org/10.1016/j.pld.2026.07.003)
-2. Q Li, K Hu, J Wang, R Fuller, **J-Y Lu**, H Wang, J Liu, RH Ree, X Kou. Accepted. Genome-wide signatures and ecological strategies show the adaptation of an alpine _Rhododendron_ across elevation.
+2. Q Li, K Hu, J Wang, R Fuller, **J-Y Lu**, H Wang, J Liu, RH Ree, X Kou. 2026. Genome-wide signatures and ecological strategies show the adaptation of an alpine _Rhododendron_ across elevation. _Mol. Ecol._ doi: 10.1111/mec.70542. [Link](https://doi.org/10.1111/mec.70542)
 
 
 ### Published
