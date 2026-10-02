@@ -39,7 +39,8 @@ model in the origin of _Aeschynanthus acuminatus_. _New Phytol._ 249(6):3137-314
 ### In Preperation
 
 1. **J-Y Lu**, YW Xing, H T Luu, RH Ree. In Prep. Pollinator-driven divergence and speciation in three _Aeschynanthus_ species.
-2. C-C Yu, Y-L Huang, T-T He, T Ito, K-F Chung, **J-Y Lu**. In Prep. In situ diversification or multiple origins of _Berberis_ in Taiwan.
+2. C-C Yu, Y-L Huang, T-T He, T Ito, K-F Chung, **J-Y Lu**. In Prep. The origin of endemic diversity on a geologically
+young continental island: multiple origins or in situ diversification of _Berberis_ in Taiwan.
 
 
 \* Authors contribute equally to this research
