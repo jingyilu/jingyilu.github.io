@@ -48,10 +48,13 @@
     });
 
     // Carto light basemap
-    const cartoLight = L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+    const cartoLight = L.tileLayer(
+    "https://basemaps.cartocdn.com/rastertiles/light_all/{z}/{x}/{y}{r}.png?key=cb1_482t_1_60d2218f2911bcfa5c4fe245",
+    {
       maxZoom: 20,
       attribution: '&copy; OpenStreetMap contributors &copy; CARTO'
-    });
+    }
+  );
 
     // Start with carto
     cartoLight.addTo(map);
