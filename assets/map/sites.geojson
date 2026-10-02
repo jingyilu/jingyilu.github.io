@@ -29,7 +29,7 @@
           "url": "https://www.nature.com/articles/s41598-019-53035-2"
         },
         {
-          "citation": "Lu et al. 2026",
+          "citation": "Lu et al. 2026a",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
         ],
@@ -50,7 +50,7 @@
         "pollinator": "generalist birds",
         "papers": [
         {
-          "citation": "Lu et al. 2026",
+          "citation": "Lu et al. 2026a",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
         ]
@@ -65,7 +65,7 @@
         "pollinator": "generalist birds",
         "papers": [
         {
-          "citation": "Lu et al. 2026",
+          "citation": "Lu et al. 2026a",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
         ],
@@ -86,7 +86,7 @@
         "pollinator": "generalist birds",
         "papers": [
         {
-          "citation": "Lu et al. 2026",
+          "citation": "Lu et al. 2026a",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
         ],
@@ -107,7 +107,7 @@
         "pollinator": "generalist birds",
         "papers": [
         {
-          "citation": "Lu et al. 2026",
+          "citation": "Lu et al. 2026a",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
         ],
@@ -128,7 +128,7 @@
         "pollinator": "generalist birds",
         "papers": [
         {
-          "citation": "Lu et al. 2026",
+          "citation": "Lu et al. 2026a",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
         ],
@@ -149,7 +149,7 @@
         "pollinator": "sunbird",
         "papers": [
         {
-          "citation": "Lu et al. 2026",
+          "citation": "Lu et al. 2026a",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
         ]
@@ -164,7 +164,7 @@
         "pollinator": "sunbird",
         "papers": [
         {
-          "citation": "Lu et al. 2026",
+          "citation": "Lu et al. 2026a",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
         ],
@@ -185,7 +185,7 @@
         "pollinator": "mixed",
         "papers": [
         {
-          "citation": "Lu et al. 2026",
+          "citation": "Lu et al. 2026a",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
         ],
@@ -210,7 +210,7 @@
         "pollinator": "unknown",
         "papers": [
         {
-          "citation": "Lu et al. 2026",
+          "citation": "Lu et al. 2026a",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
         ]
@@ -225,7 +225,7 @@
         "pollinator": "unknown",
         "papers": [
         {
-          "citation": "Lu et al. 2026",
+          "citation": "Lu et al. 2026a",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
         ]
@@ -240,7 +240,7 @@
         "pollinator": "unknown",
         "papers": [
         {
-          "citation": "Lu et al. 2026",
+          "citation": "Lu et al. 2026a",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
         ]
@@ -255,7 +255,7 @@
         "pollinator": "unknown",
         "papers": [
         {
-          "citation": "Lu et al. 2026",
+          "citation": "Lu et al. 2026a",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
         ]
@@ -270,7 +270,7 @@
         "pollinator": "unknown",
         "papers": [
         {
-          "citation": "Lu et al. 2026",
+          "citation": "Lu et al. 2026a",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
         ]
@@ -285,12 +285,27 @@
         "pollinator": "unknown",
         "papers": [
         {
-          "citation": "Lu et al. 2026",
+          "citation": "Lu et al. 2026a",
           "url": "https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70871"
         }
         ]
       },
       "geometry": { "type": "Point", "coordinates": [108.744164, 14.526669] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": "Limushan",
+        "species": "Aeschynanthus moningerae",
+        "pollinator": "sunbird",
+        "papers": [
+        {
+          "citation": "Lu et al. 2026b",
+          "url": ""
+        }
+        ]
+      },
+      "geometry": { "type": "Point", "coordinates": [109.7652833, 19.15605] }
     }
   ]
 }
