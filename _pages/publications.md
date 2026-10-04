@@ -17,7 +17,7 @@ Journal Articles
 ### In Press
 
 1. **J-Y Lu**\*, S-J Ling\*, M-X Ren, RH Ree. Accepted. Sunbird pollination of _Aeschynanthus moningerae_ and its
-implications for floral adaptations for hovering. _Am. Nat._
+implications for floral adaptations for hovering. _Am. Nat._ doi: 10.1086/744314. [Link](https://doi.org/10.1086/744314)
 
 2. Q Shen, N He, Y Kang, F Wang, **J-Y Lu**, Q Li. 2026. Multidimensional floral disparity in _Rhododendron_: Evolutionary constraints and environmental filtering in a generalized pollination system. _Plant Divers._ doi: 10.1016/j.pld.2026.07.003. [Link](https://doi.org/10.1016/j.pld.2026.07.003)
 
