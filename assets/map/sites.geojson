@@ -306,6 +306,21 @@
         ]
       },
       "geometry": { "type": "Point", "coordinates": [109.7652833, 19.15605] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": "Yinggeling",
+        "species": "Aeschynanthus moningerae",
+        "pollinator": "sunbird",
+        "papers": [
+        {
+          "citation": "Lu et al. 2026b",
+          "url": "https://doi.org/10.1086/744314"
+        }
+        ]
+      },
+      "geometry": { "type": "Point", "coordinates": [109.5629167, 19.05056667] }
     }
   ]
 }
