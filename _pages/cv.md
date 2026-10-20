@@ -22,7 +22,7 @@ Conference
 
 ### Oral Presentation
 
-1. **J-Y Lu**, Y-W Xing, H T Luu, M-X Ren, S-J Ling, RH Ree. Pollinator-mediated speciation on two continental islands: insights from bird-pollinated _Aeschynanthus_. Island Biology 2026: 2-6 Nov, Atami city, Japan.
+1. **J-Y Lu**, Y-W Xing, H T Luu, M-X Ren, S-J Ling, RH Ree. Pollinator-mediated speciation on two continental islands: insights from bird-pollinated _Aeschynanthus_. Island Biology 2026: 2-6 Nov, Atami, Japan. [Abstract](https://github.com/jingyilu/jingyilu.github.io/tree/main/files/IB2026-abstract.pdf)
 
 2. **J-Y Lu**, Y-W Xing, H T Luu, M-X Ren, S-J Ling, RH Ree. Pollinator-driven divergence and speciation in three _Aeschynanthus_ species. Botany 2025: 26-30 July, Palm Springs, CA, USA. [Abstract](https://github.com/jingyilu/jingyilu.github.io/tree/main/files/Botany-2025-abstract.pdf)
 
