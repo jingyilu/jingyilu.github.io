@@ -12,15 +12,15 @@ Plant-pollinator interaction is a compelling subject for investigating the links
 <style>
 .research-block {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
-  gap: 1.5rem;
-  align-items: start;
-  padding: 1.75rem 0;
+  grid-template-columns: minmax(0, 42fr) minmax(0, 58fr);
+  gap: 1.75rem;
+  align-items: center;
+  padding: 2rem 0;
   border-top: 1px solid #ddd;
 }
 
 .research-block.image-right {
-  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 58fr) minmax(0, 42fr);
 }
 
 .research-block h2 {
@@ -29,18 +29,23 @@ Plant-pollinator interaction is a compelling subject for investigating the links
 
 .research-block__image {
   margin: 0;
+  width: 100%;
+  min-width: 0;
 }
 
 .research-block__image img {
   display: block;
   width: 100%;
+  max-width: 100%;
   height: auto;
+  margin: 0;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 800px) {
   .research-block,
   .research-block.image-right {
     grid-template-columns: 1fr;
+    gap: 1rem;
   }
 
   /* Place the text before the image on phones. */
@@ -50,6 +55,8 @@ Plant-pollinator interaction is a compelling subject for investigating the links
 
   .research-block__image {
     order: 2;
+    max-width: 550px;
+    justify-self: center;
   }
 }
 </style>
@@ -57,9 +64,10 @@ Plant-pollinator interaction is a compelling subject for investigating the links
 <!-- Block 1: speciation — image left -->
 <section class="research-block">
   <figure class="research-block__image">
-    <img src="/images/Fig2_Hypotheses.jpg"
-         alt="Alternative phylogenetic hypotheses for the origin of Aeschynanthus acuminatus"
-         loading="lazy">
+    <a href="/images/Fig2_Hypotheses.jpg">
+      <img src="/images/Fig2_Hypotheses.jpg"
+           alt="Alternative phylogenetic hypotheses for the origin of Aeschynanthus acuminatus"
+           loading="lazy">
   </figure>
 
   <div class="research-block__text">
