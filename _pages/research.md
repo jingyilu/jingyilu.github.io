@@ -67,10 +67,6 @@ Plant-pollinator interaction is a compelling subject for investigating the links
          loading="lazy">
   </figure>
 
-  <div style="flex: 2;">
-    <h3>Can the classic pollinator-driven speciation model explain species origin?</h3>
-
-
   <div class="research-block__text">
     <h2>Pollinator shifts and speciation</h2>
 
@@ -98,6 +94,7 @@ Plant-pollinator interaction is a compelling subject for investigating the links
     </p>
   </div>
 </section>
+
 ---
 
 <br> <!-- Empty lines added here -->
