@@ -10,25 +10,94 @@ Plant-pollinator interaction is a compelling subject for investigating the links
 
 
 ---
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <div style="flex: 1;">
-    <br> <!-- Empty lines added here -->
+
+<style>
+.research-block {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
+  gap: 1.5rem;
+  align-items: start;
+  padding: 1.75rem 0;
+  border-top: 1px solid #ddd;
+}
+
+.research-block.image-right {
+  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
+}
+
+.research-block h2 {
+  margin-top: 0;
+}
+
+.research-block__image {
+  margin: 0;
+}
+
+.research-block__image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 700px) {
+  .research-block,
+  .research-block.image-right {
+    grid-template-columns: 1fr;
+  }
+
+  /* Place the text before the image on phones. */
+  .research-block__text {
+    order: 1;
+  }
+
+  .research-block__image {
+    order: 2;
+  }
+}
+</style>
+
+
+
+
+<!-- Block 1: speciation — image left -->
+<section class="research-block">
+  <figure class="research-block__image">
     <img src="/images/Fig2_Hypotheses.jpg"
-         alt="Phyglogenetic hypotheses"
-         style="width:400px; height: auto;">
-  </div>
+         alt="Alternative phylogenetic hypotheses for the origin of Aeschynanthus acuminatus"
+         loading="lazy">
+  </figure>
 
   <div style="flex: 2;">
     <h3>Can the classic pollinator-driven speciation model explain species origin?</h3>
 
+
+  <div class="research-block__text">
+    <h2>Pollinator shifts and speciation</h2>
+
     <p>
-    The classic Grant-Stebbins model of pollinator-driven speciation predicts that a plant species encountering different pollinators across its range may undergo local adaptation and, subsequently, ecological speciation. The pollinator shift to generalist bird, derived from sunbird specialist ancestors, in the East Asian <em>Aeschynanthus acuminatus</em> (Gesneriaceae) provides an unique opportunity to ask if the classic model can explain its origin. I test among evolutionary scenarios by integrating studies of phylogeography, pollination, and floral morphology.
+      Can the classic pollinator-driven speciation model explain species
+      origins? The Grant–Stebbins model predicts that a plant species
+      encountering different pollinators across its range may undergo
+      local adaptation and, subsequently, ecological speciation.
+      The pollinator shift to generalist bird, derived from sunbird 
+      specialist ancestors, in the East Asian <em>Aeschynanthus acuminatus</em>, 
+      provides an opportunity to test this model.
     </p>
 
-    <p>Publication: <a href="https://doi.org/10.1111/nph.70871">Lu et al. 2026 New Phyt.</a>
+    <p>
+      I evaluate alternative evolutionary scenarios by integrating
+      phylogeography, pollination studies, and floral morphology,
+      asking how changes in pollinator niches relate to species origins
+      and geographic range.
+    </p>
+
+
+    <p>
+      <strong>Related publication:</strong>
+      <a href="https://doi.org/10.1111/nph.70871">Lu et al. 2026 · <em>New Phytologist</em></a>.
     </p>
   </div>
-</div>
+</section>
 ---
 
 <br> <!-- Empty lines added here -->
