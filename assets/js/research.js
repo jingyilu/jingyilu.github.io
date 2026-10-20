@@ -11,7 +11,7 @@
 
       enlargedImage.src = button.dataset.full || thumbnail.src;
       enlargedImage.alt = thumbnail.alt;
-      caption.textContent = button.dataset.caption || "";
+      caption.innerHTML = button.dataset.caption || "";
 
       previousOverflow = document.body.style.overflow;
       viewer.showModal();
