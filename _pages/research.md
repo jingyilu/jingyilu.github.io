@@ -130,6 +130,33 @@ Plant-pollinator interaction is a compelling subject for investigating the links
   </div>
 </section>
 
+<div class="research-block__text">
+  <h2>Plant diversity and evolutionary history</h2>
+
+  <p>
+    How are plant lineages related, and how has their diversity developed
+    across geographic regions? I use phylogenetic and genomic approaches
+    to investigate evolutionary relationships from populations and closely
+    related species to deeper lineages. By combining these analyses with
+    geographic distributions, morphological evidence, and field observations,
+    I examine species boundaries, histories of divergence and dispersal,
+    and the evolution of plant diversity.
+  </p>
+
+  <p>
+    My work spans population-to-species relationships and geographic
+    history in <em>Aeschynanthus</em>, and collaborative projects on the 
+    diversification of Taiwanese <em>Berberis</em>, and the relationships of
+    Sladeniaceae. Across these systems, I am interested in how different
+    sources of evidence inform our understanding of plant evolutionary history.
+  </p>
+
+  <p>
+    <strong>Related publications:</strong>
+    <a href="https://doi.org/10.1002/ajb2.70141">Yu et al. 2025 · <em>Am. J. Bot.</em></a>;
+    <a href="https://doi.org/10.1111/nph.70871">Lu et al. 2026 · <em>New Phytol.</em></a>.
+  </p>
+</div>
 
 
 ---
