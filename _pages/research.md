@@ -106,3 +106,25 @@ Plant-pollinator interaction is a compelling subject for investigating the links
 
 <p>
 My previous research can be found <a href="https://jeffwhile.wixsite.com/jing-yi-lu">here</a>.
+
+<dialog
+  id="research-lightbox"
+  class="research-lightbox"
+  aria-label="Enlarged research image">
+
+  <form method="dialog" class="research-lightbox__toolbar">
+    <button
+      class="research-lightbox__close"
+      aria-label="Close enlarged image"
+      autofocus>
+      Close ×
+    </button>
+  </form>
+
+  <figure>
+    <img class="research-lightbox__image" alt="">
+    <figcaption class="research-lightbox__caption"></figcaption>
+  </figure>
+</dialog>
+
+<script src="{{ '/assets/js/research.js' | relative_url }}" defer></script>
