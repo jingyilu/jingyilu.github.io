@@ -5,70 +5,29 @@ permalink: /research/
 author_profile: true
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/research.css' | relative_url }}">
+
+My research focuses on how plants evolve and diversify across spatial and temporal scales, with particular interests in plant–pollinator interactions. I combine field ecology, morphological studies, phylogeography, and genomic analyses to connect ecological interactions and adaptation with the divergence and evolutionary histories of plant lineages.
+
+<!-- old version
 My research focuses on how plants evolve and diversify across spatial and temporal scales. Using an integrative approach that combines field ecology, phylogeography, and genomic analyses, I examine models of plant speciation and the role of ecological interactions in shaping evolutionary divergence.
 Plant-pollinator interaction is a compelling subject for investigating the links between microevolution and macroevolution. Uneven distribution of animal pollinators forms geographic mosaics at the landscape level. How do plants respond and evolve to a geographic mosaic in pollinator availability? I investigate key questions of pollinator-driven speciation in the SE Asian genus <em>Aeschynanthus</em> (Gesneriaceae).
-
-
-<style>
-.research-block {
-  display: grid;
-  grid-template-columns: minmax(0, 42fr) minmax(0, 58fr);
-  gap: 1.75rem;
-  align-items: center;
-  padding: 2rem 0;
-  border-top: 1px solid #ddd;
-}
-
-.research-block.image-right {
-  grid-template-columns: minmax(0, 58fr) minmax(0, 42fr);
-}
-
-.research-block h2 {
-  margin-top: 0;
-}
-
-.research-block__image {
-  margin: 0;
-  width: 100%;
-  min-width: 0;
-}
-
-.research-block__image img {
-  display: block;
-  width: 100%;
-  max-width: 100%;
-  height: auto;
-  margin: 0;
-}
-
-@media (max-width: 800px) {
-  .research-block,
-  .research-block.image-right {
-    grid-template-columns: 1fr;
-    gap: 1rem;
-  }
-
-  /* Place the text before the image on phones. */
-  .research-block__text {
-    order: 1;
-  }
-
-  .research-block__image {
-    order: 2;
-    max-width: 550px;
-    justify-self: center;
-  }
-}
-</style>
+ -->
 
 <!-- Block 1: speciation — image left -->
 <section class="research-block">
   <figure class="research-block__image">
-    <a href="/images/Fig2_Hypotheses.jpg">
-      <img src="/images/Fig2_Hypotheses.jpg"
-           alt="Alternative phylogenetic hypotheses for the origin of Aeschynanthus acuminatus"
-           loading="lazy">
-    </a>
+    <button
+      type="button"
+      class="research-image-button"
+      aria-label="Enlarge phylogenetic figure"
+      aria-haspopup="dialog"
+      data-caption="Alternative phylogenetic hypotheses for the origin of <em>Aeschynanthus acuminatus</em>.">
+      <img
+        src="/images/Fig2_Hypotheses.jpg"
+        alt="Alternative phylogenetic hypotheses for the origin of Aeschynanthus acuminatus"
+        loading="lazy">
+    </button>
   </figure>
 
   <div class="research-block__text">
@@ -139,9 +98,11 @@ Plant-pollinator interaction is a compelling subject for investigating the links
   </figure>
 </section>
 
+
+
 ---
 
 <br> <!-- Empty lines added here -->
 
 <p>
-  More research to come. My previous research can be found <a href="https://jeffwhile.wixsite.com/jing-yi-lu">here</a>.
+My previous research can be found <a href="https://jeffwhile.wixsite.com/jing-yi-lu">here</a>.
