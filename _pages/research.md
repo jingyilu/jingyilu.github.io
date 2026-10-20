@@ -53,7 +53,7 @@ Plant-pollinator interaction is a compelling subject for investigating the links
 
     <p>
       <strong>Related publication:</strong>
-      <a href="https://doi.org/10.1111/nph.70871">Lu et al. 2026 · <em>New Phytologist</em></a>.
+      <a href="https://doi.org/10.1111/nph.70871">Lu et al. 2026 · <em>New Phytol.</em></a>.
     </p>
   </div>
 </section>
@@ -86,16 +86,48 @@ Plant-pollinator interaction is a compelling subject for investigating the links
 
     <p>
       <strong>Related publications:</strong>
-      <a href="https://doi.org/10.1038/s41598-019-53035-2">Chen et al. 2019 · <em>Scientific Reports</em></a>;
-      <a href="https://doi.org/10.1086/744314">Lu et al. 2026 · <em>The American Naturalist</em></a>.
+      <a href="https://doi.org/10.1038/s41598-019-53035-2">Chen et al. 2019 · <em>Sci. Rep.</em></a>;
+      <a href="https://doi.org/10.1086/744314">Lu et al. 2026 · <em>Am. Nat.</em></a>.
     </p>
   </div>
-
-  <figure class="research-block__image">
-    <img src="/images/sunbird-moningerae.jpg"
-         alt="A male Fork-tailed Sunbird visiting the flower of Aeschynanthus moningerae by hovering"
-         loading="lazy">
-  </figure>
+  <div class="research-block__image">
+    <div class="research-gallery">
+      <button
+        type="button"
+        class="research-image-button"
+        aria-label="Enlarge Heterophasia-acuminatus"
+        aria-haspopup="dialog"
+        data-caption="A generalist passerine, White-eared Sibia (<em>Heterophasia auricularis</em>) visited <em>Aeschynanthus acuminatus</em> in Taiwan.">
+        <img
+          src="/images/Heterophasia-acuminatus.jpg"
+          alt="A generalist passerine, White-eared Sibia (Heterophasia auricularis) visited Aeschynanthus acuminatus in Taiwan."
+          loading="lazy">
+      </button>      
+      <button
+        type="button"
+        class="research-image-button"
+        aria-label="Enlarge sunbird-moningerae"
+        aria-haspopup="dialog"
+        data-caption="A male Fork-tailed Sunbird (<em>Aethopyga christinae</em>) visited <em>Aeschynanthus moningerae</em> by hovering in Hainan.">
+        <img
+          src="/images/sunbird-moningerae.jpg"
+          alt="A male Fork-tailed Sunbird (Aethopyga christinae) visited Aeschynanthus moningerae by hovering"
+          loading="lazy">
+      </button>
+      <button
+        type="button"
+        class="research-image-button"
+        aria-label="Enlarge sunbird-acuminatus"
+        aria-haspopup="dialog"
+        data-caption="A male Black-throated Sunbird (<em>Aethopyga saturata</em>) visited <em>Aeschynanthus acuminatus</em> in Yunnan.">
+        <img
+          src="/images/sunbird-acuminatus.jpg"
+          alt="A male Black-throated Sunbird (Aethopyga saturata) visited Aeschynanthus acuminatus in Yunnan."
+          loading="lazy">
+      </button>
+    </div>
+    <p class="research-gallery-note">Select an image to enlarge.</p>
+  </div>
 </section>
 
 
