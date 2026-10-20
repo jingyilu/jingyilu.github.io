@@ -9,8 +9,6 @@ My research focuses on how plants evolve and diversify across spatial and tempor
 Plant-pollinator interaction is a compelling subject for investigating the links between microevolution and macroevolution. Uneven distribution of animal pollinators forms geographic mosaics at the landscape level. How do plants respond and evolve to a geographic mosaic in pollinator availability? I investigate key questions of pollinator-driven speciation in the SE Asian genus <em>Aeschynanthus</em> (Gesneriaceae).
 
 
----
-
 <style>
 .research-block {
   display: grid;
@@ -56,9 +54,6 @@ Plant-pollinator interaction is a compelling subject for investigating the links
 }
 </style>
 
-
-
-
 <!-- Block 1: speciation — image left -->
 <section class="research-block">
   <figure class="research-block__image">
@@ -93,6 +88,46 @@ Plant-pollinator interaction is a compelling subject for investigating the links
       <a href="https://doi.org/10.1111/nph.70871">Lu et al. 2026 · <em>New Phytologist</em></a>.
     </p>
   </div>
+</section>
+
+<!-- Block 2: pollination ecology — image right -->
+
+<section class="research-block image-right">
+  <div class="research-block__text">
+    <h2>Pollination ecology and floral adaptation</h2>
+
+    <p>
+      How do plant–pollinator interactions influence reproductive success
+      and shape floral diversity? My research focuses on bird pollination
+      in East and Southeast Asia, where both nectar-specialist sunbirds
+      and generalist birds contribute to plant reproduction. Combining
+      field observations, pollination experiments, and floral trait
+      measurements, I investigate how floral traits influence visitor
+      access, foraging behavior, and pollination effectiveness, and how
+      these interactions affect fruit set and plant reproductive success.
+    </p>
+
+    <p>
+      My work on <em>Aeschynanthus</em> includes effective pollination by
+      generalist passerines in Taiwan and floral adaptations associated
+      with hovering sunbird pollination in Hainan. More broadly, I am
+      interested in how variation in pollinator availability changes the
+      fitness consequences of floral traits, contributing to local
+      adaptation and floral evolution.
+    </p>
+
+    <p>
+      <strong>Related publications:</strong>
+      <a href="https://doi.org/10.1038/s41598-019-53035-2">Chen et al. 2019 · <em>Scientific Reports</em></a>;
+      <a href="https://doi.org/10.1086/744314">Lu et al. 2026 · <em>The American Naturalist</em></a>.
+    </p>
+  </div>
+
+  <figure class="research-block__image">
+    <img src="/images/sunbird-moningerae.jpg"
+         alt="A male Fork-tailed Sunbird visiting the flower of Aeschynanthus moningerae by hovering"
+         loading="lazy">
+  </figure>
 </section>
 
 ---
