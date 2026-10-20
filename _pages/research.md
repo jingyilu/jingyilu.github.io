@@ -68,6 +68,7 @@ Plant-pollinator interaction is a compelling subject for investigating the links
       <img src="/images/Fig2_Hypotheses.jpg"
            alt="Alternative phylogenetic hypotheses for the origin of Aeschynanthus acuminatus"
            loading="lazy">
+    </a>
   </figure>
 
   <div class="research-block__text">
