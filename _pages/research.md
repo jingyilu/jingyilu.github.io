@@ -67,16 +67,16 @@ Plant-pollinator interaction is a compelling subject for investigating the links
     <p>
       How do plant–pollinator interactions influence reproductive success
       and shape floral diversity? My research focuses on bird pollination
-      in East and Southeast Asia, where both nectar-specialist sunbirds
-      and generalist birds contribute to plant reproduction. Combining
-      field observations, pollination experiments, and floral trait
+      in East and Southeast Asia, where both nectar-specialist sunbirds 
+      (Nectariniidae) and generalist birds contribute to plant reproduction. 
+      Combining field observations, pollination experiments, and floral trait
       measurements, I investigate how floral traits influence visitor
       access, foraging behavior, and pollination effectiveness, and how
       these interactions affect fruit set and plant reproductive success.
     </p>
 
     <p>
-      My work on <em>Aeschynanthus</em> includes effective pollination by
+      My works on <em>Aeschynanthus</em> revealed effective pollination by
       generalist passerines in Taiwan and floral adaptations associated
       with hovering sunbird pollination in Hainan. More broadly, I am
       interested in how variation in pollinator availability changes the
@@ -87,6 +87,7 @@ Plant-pollinator interaction is a compelling subject for investigating the links
     <p>
       <strong>Related publications:</strong>
       <a href="https://doi.org/10.1038/s41598-019-53035-2">Chen et al. 2019 · <em>Sci. Rep.</em></a>;
+      <a href="https://doi.org/10.1111/nph.70871">Lu et al. 2026 · <em>New Phytol.</em></a>;
       <a href="https://doi.org/10.1086/744314">Lu et al. 2026 · <em>Am. Nat.</em></a>.
     </p>
   </div>
@@ -139,14 +140,14 @@ Plant-pollinator interaction is a compelling subject for investigating the links
     to investigate evolutionary relationships from populations and closely
     related species to deeper lineages. By combining these analyses with
     geographic distributions, morphological evidence, and field observations,
-    I examine species boundaries, histories of divergence and dispersal,
+    I examine species boundaries, histories of divergence and migration,
     and the evolution of plant diversity.
   </p>
 
   <p>
     My work spans population-to-species relationships and geographic
     history in <em>Aeschynanthus</em>, and collaborative projects on the 
-    diversification of Taiwanese <em>Berberis</em>, and the relationships of
+    diversification of Taiwanese <em>Berberis</em> and the relationships of
     Sladeniaceae. Across these systems, I am interested in how different
     sources of evidence inform our understanding of plant evolutionary history.
   </p>
